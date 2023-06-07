@@ -1,11 +1,11 @@
 # Dog Localization using Neural Network 
-Localize dog on images in ImageNet dataset using custom built convolutional neural network.
+Localize dog on images in ImageNet dataset using custom built convolutional neural network.  
 Demo: https://huggingface.co/spaces/sadjava/dog-localization
 
 ## Features
-⚡ Image Localization
-⚡ Pretrained Model
-⚡ Transfer Learning
+⚡ Image Localization  
+⚡ Pretrained Model  
+⚡ Transfer Learning  
 
 ## Limitations
 ❌ Cannot handle multiple objects
